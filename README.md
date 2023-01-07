@@ -14,7 +14,7 @@ The project was done as part of the **IT 305 Programming Languages** course at I
 
 - [Adnan Džindo](https://github.com/Adnan251)
 - [Ilma Džaferović](https://github.com/ilmadzaferovic)
-- [Adnan Krndžija](https://github.com/AdnanKrndzija)
+- [Adnan Krndžija](https://github.com/AdnanKrndzijaa)
 
 ## Running the Project
 
